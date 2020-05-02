@@ -1,0 +1,181 @@
+{
+    "CIRCLE_OBJECTS": [
+        {
+            "group_id": [
+            ],
+            "id": "{43080660-b518-4bf7-ab3d-a7838d1614c3}",
+            "position": [
+                44.449999999999996,
+                127
+            ],
+            "radius": 19.049999999999997
+        }
+    ],
+    "CURVE_OBJECTS": [
+        {
+            "control_point_1": [
+                [
+                    629.16,
+                    244.5
+                ],
+                [
+                    134.16,
+                    219.5
+                ],
+                [
+                    134.16,
+                    142.415
+                ],
+                [
+                    11.236,
+                    167
+                ],
+                [
+                    11.236,
+                    87
+                ],
+                [
+                    134.16,
+                    111.585
+                ],
+                [
+                    134.16,
+                    34.5
+                ],
+                [
+                    629.16,
+                    9.5
+                ],
+                [
+                    629.16,
+                    244.5
+                ]
+            ],
+            "control_point_2": [
+                [
+                    629.16,
+                    244.5
+                ],
+                [
+                    134.16,
+                    219.5
+                ],
+                [
+                    134.16,
+                    142.415
+                ],
+                [
+                    11.236,
+                    167
+                ],
+                [
+                    11.236,
+                    87
+                ],
+                [
+                    134.16,
+                    111.585
+                ],
+                [
+                    134.16,
+                    34.5
+                ],
+                [
+                    629.16,
+                    9.5
+                ],
+                [
+                    629.16,
+                    244.5
+                ]
+            ],
+            "group_id": [
+            ],
+            "id": "{4d0bfaa0-c9fa-4708-8272-327bdd7f294d}",
+            "point_type": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                4
+            ],
+            "points": [
+                [
+                    629.16,
+                    244.5
+                ],
+                [
+                    134.16,
+                    219.5
+                ],
+                [
+                    134.16,
+                    142.415
+                ],
+                [
+                    11.236,
+                    167
+                ],
+                [
+                    11.236,
+                    87
+                ],
+                [
+                    134.16,
+                    111.585
+                ],
+                [
+                    134.16,
+                    34.5
+                ],
+                [
+                    629.16,
+                    9.5
+                ],
+                [
+                    629.16,
+                    244.5
+                ]
+            ],
+            "position": [
+                0,
+                0
+            ],
+            "rotation": 0
+        }
+    ],
+    "DOCUMENT_VALUES": {
+        "BACKGROUND_IMAGE": "AAAAAA==",
+        "BACKGROUND_OPACITY": 0.5,
+        "BACKGROUND_POSITION_X": 0,
+        "BACKGROUND_POSITION_Y": 0,
+        "BACKGROUND_ROTATION": 0,
+        "BACKGROUND_SCALE": 1,
+        "BACKGROUND_VISIBLE": false,
+        "DISPLAYMM": false,
+        "HEIGHT": 254,
+        "MACHINE": "Shapeoko XL",
+        "MATERIAL": "Hard",
+        "RETRACT": 30,
+        "THICKNESS": 25.4,
+        "WIDTH": 635,
+        "ZERO_X": 0,
+        "ZERO_Y": 0,
+        "ZERO_Z": 0,
+        "grid_enabled": true,
+        "grid_spacing": 5,
+        "version": 1
+    },
+    "RECT_OBJECTS": [
+    ],
+    "REGULAR_POLYGON_OBJECTS": [
+    ],
+    "TEXT_OBJECTS": [
+    ],
+    "TOOLPATH_OBJECTS": [
+    ]
+}

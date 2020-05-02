@@ -1,0 +1,123 @@
+{
+    "CIRCLE_OBJECTS": [
+    ],
+    "CURVE_OBJECTS": [
+    ],
+    "DOCUMENT_VALUES": {
+        "BACKGROUND_IMAGE": "AAAAAA==",
+        "BACKGROUND_OPACITY": 0.5,
+        "BACKGROUND_POSITION_X": 0,
+        "BACKGROUND_POSITION_Y": 0,
+        "BACKGROUND_ROTATION": 0,
+        "BACKGROUND_SCALE": 1,
+        "BACKGROUND_VISIBLE": false,
+        "DISPLAYMM": false,
+        "HEIGHT": 152.39999999999998,
+        "MACHINE": "Shapeoko 3",
+        "MATERIAL": "Wax",
+        "RETRACT": 32,
+        "THICKNESS": 18.034,
+        "WIDTH": 304.79999999999995,
+        "ZERO_X": 0,
+        "ZERO_Y": 0,
+        "ZERO_Z": 0,
+        "grid_enabled": true,
+        "grid_spacing": 6.35,
+        "version": 1
+    },
+    "RECT_OBJECTS": [
+    ],
+    "REGULAR_POLYGON_OBJECTS": [
+    ],
+    "TEXT_OBJECTS": [
+        {
+            "flip_horiz": false,
+            "flip_vert": false,
+            "font": "Bangla MN-Regular",
+            "height": 27.0256,
+            "id": "{94111ba4-cb67-4dc2-a5bc-23c846250cf0}",
+            "position": [
+                15.08905618013415,
+                83.14339624401151
+            ],
+            "rotation": 0,
+            "text": "#FUNK",
+            "width": -1
+        }
+    ],
+    "TOOLPATH_OBJECTS": [
+        {
+            "automatic_parameters": true,
+            "contours": [
+            ],
+            "enabled": true,
+            "end_depth": -10.0076,
+            "name": "Toolpath 15",
+            "ofset_dir": 1,
+            "speeds": {
+                "feedrate": 1318.2600000000114,
+                "plungerate": 659.1300000000057,
+                "rpm": 5610
+            },
+            "start_depth": 0,
+            "stepdown": 3.0669497310870004,
+            "stepover": 2.13741,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 4.7498,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 19.049999999999997,
+                "name": "end mill",
+                "number": 14,
+                "overall_length": 0,
+                "uuid": "{843886ab-840c-44cc-bb1f-f075f69d9357}"
+            },
+            "uuid": "{f0d18d3f-dfec-414a-8712-87493e889b9a}",
+            "vcarve": false
+        },
+        {
+            "automatic_parameters": true,
+            "contours": [
+            ],
+            "enabled": true,
+            "end_depth": -10.0076,
+            "name": "Toolpath 16",
+            "ofset_dir": -1,
+            "speeds": {
+                "feedrate": 1318.2600000000114,
+                "plungerate": 659.1300000000057,
+                "rpm": 5610
+            },
+            "start_depth": 0,
+            "stepdown": 3.0669497310870004,
+            "stepover": 2.13741,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 4.7498,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 19.049999999999997,
+                "name": "end mill",
+                "number": 14,
+                "overall_length": 0,
+                "uuid": "{843886ab-840c-44cc-bb1f-f075f69d9357}"
+            },
+            "uuid": "{a8b62260-a018-439d-97c1-7f1e0e301a7c}",
+            "vcarve": false
+        }
+    ],
+    "toolpath_links": [
+        {
+            "links": [
+                "{f0d18d3f-dfec-414a-8712-87493e889b9a}",
+                "{a8b62260-a018-439d-97c1-7f1e0e301a7c}"
+            ],
+            "uuid": "{94111ba4-cb67-4dc2-a5bc-23c846250cf0}"
+        }
+    ]
+}

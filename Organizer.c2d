@@ -1,0 +1,206 @@
+{
+    "CIRCLE_OBJECTS": [
+    ],
+    "CURVE_OBJECTS": [
+    ],
+    "DOCUMENT_VALUES": {
+        "BACKGROUND_IMAGE": "AAAAAA==",
+        "BACKGROUND_OPACITY": 0.5,
+        "BACKGROUND_POSITION_X": 0,
+        "BACKGROUND_POSITION_Y": 0,
+        "BACKGROUND_ROTATION": 0,
+        "BACKGROUND_SCALE": 1,
+        "BACKGROUND_VISIBLE": false,
+        "DISPLAYMM": false,
+        "HEIGHT": 152.39999999999998,
+        "MACHINE": "Shapeoko XL",
+        "MATERIAL": "Hard",
+        "RETRACT": 30,
+        "THICKNESS": 19.049999999999997,
+        "WIDTH": 330.2,
+        "ZERO_X": 0,
+        "ZERO_Y": 0,
+        "ZERO_Z": 0,
+        "grid_enabled": true,
+        "grid_spacing": 5,
+        "version": 1
+    },
+    "RECT_OBJECTS": [
+        {
+            "corner_type": 1,
+            "group_id": [
+            ],
+            "height": 114.3,
+            "id": "{0035a2a4-10a1-4648-8e32-c5fc1339cc34}",
+            "position": [
+                165.35399999999998,
+                76.19999999999999
+            ],
+            "radius": 6.35,
+            "rotation": 0,
+            "width": 304.79999999999995
+        },
+        {
+            "corner_type": 1,
+            "group_id": [
+            ],
+            "height": 50.8,
+            "id": "{5d9d3367-c8c8-4ba6-8d32-e19e760a0566}",
+            "position": [
+                228.93019999999999,
+                76.19999999999999
+            ],
+            "radius": 6.35,
+            "rotation": 0,
+            "width": 152.39999999999998
+        },
+        {
+            "corner_type": 1,
+            "group_id": [
+            ],
+            "height": 95.25,
+            "id": "{e83d3fed-3265-43f5-afbf-aff335fd2175}",
+            "position": [
+                83.693,
+                76.19999999999999
+            ],
+            "radius": 6.35,
+            "rotation": 0,
+            "width": 114.3
+        }
+    ],
+    "REGULAR_POLYGON_OBJECTS": [
+    ],
+    "TEXT_OBJECTS": [
+    ],
+    "TOOLPATH_OBJECTS": [
+        {
+            "automatic_parameters": false,
+            "elements": [
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{e83d3fed-3265-43f5-afbf-aff335fd2175}"
+                }
+            ],
+            "enabled": true,
+            "end_depth": -7.874,
+            "name": "Wallet",
+            "ofset_dir": 2,
+            "speeds": {
+                "feedrate": 1905,
+                "plungerate": 1270,
+                "rpm": 8333
+            },
+            "start_depth": 0,
+            "stepdown": 3.8099999999999996,
+            "stepover": 2.8702,
+            "tab_height": 3,
+            "tab_width": 12,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 6.35,
+                "display_mm": false,
+                "flutes": 3,
+                "length": 9.524999999999999,
+                "name": "",
+                "number": 201,
+                "overall_length": 38.099999999999994,
+                "uuid": "{00000000-0000-0000-0000-000000000201}"
+            },
+            "uuid": "{2f07fe37-8cd6-47fa-9ecf-66d7d4e974fa}"
+        },
+        {
+            "automatic_parameters": false,
+            "elements": [
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{5d9d3367-c8c8-4ba6-8d32-e19e760a0566}"
+                }
+            ],
+            "enabled": true,
+            "end_depth": -7.874,
+            "name": "Glasses",
+            "ofset_dir": 2,
+            "speeds": {
+                "feedrate": 1905,
+                "plungerate": 1270,
+                "rpm": 8333
+            },
+            "start_depth": 0,
+            "stepdown": 3.8099999999999996,
+            "stepover": 2.8702,
+            "tab_height": 3,
+            "tab_width": 12,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 6.35,
+                "display_mm": false,
+                "flutes": 3,
+                "length": 9.524999999999999,
+                "name": "",
+                "number": 201,
+                "overall_length": 38.099999999999994,
+                "uuid": "{00000000-0000-0000-0000-000000000201}"
+            },
+            "uuid": "{e2fd9788-7af1-421c-9529-d1ad2eccc2c8}"
+        },
+        {
+            "automatic_parameters": false,
+            "elements": [
+                {
+                    "tab_index": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "tab_u": [
+                        0.03622837351371186,
+                        0.32659518991724396,
+                        0.5224158853844173,
+                        0.8089687768789712
+                    ],
+                    "uuid": "{0035a2a4-10a1-4648-8e32-c5fc1339cc34}"
+                }
+            ],
+            "enabled": true,
+            "end_depth": -19.304,
+            "name": "Outline",
+            "ofset_dir": 1,
+            "speeds": {
+                "feedrate": 1905,
+                "plungerate": 1270,
+                "rpm": 8333
+            },
+            "start_depth": 0,
+            "stepdown": 3.8099999999999996,
+            "stepover": 2.8702,
+            "tab_height": 3,
+            "tab_width": 12,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 6.35,
+                "display_mm": false,
+                "flutes": 3,
+                "length": 9.524999999999999,
+                "name": "",
+                "number": 201,
+                "overall_length": 38.099999999999994,
+                "uuid": "{00000000-0000-0000-0000-000000000201}"
+            },
+            "uuid": "{4097dc8b-72c7-4a9b-981d-37a668505c02}"
+        }
+    ]
+}
