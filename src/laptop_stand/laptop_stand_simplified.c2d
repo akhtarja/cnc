@@ -24413,20 +24413,20 @@
         "BACKGROUND_ROTATION": 0,
         "BACKGROUND_SCALE": 1,
         "BACKGROUND_VISIBLE": false,
-        "DISPLAYMM": false,
+        "DISPLAYMM": true,
         "HEIGHT": 203.2,
         "MACHINE": "Shapeoko XL",
         "MACHINE_TYPE": "Shapeoko",
-        "MATERIAL": "Acrylic",
-        "RETRACT": 35,
-        "THICKNESS": 18.059399999999997,
-        "WIDTH": 431.79999999999995,
-        "ZERO_X": 215.89999999999998,
+        "MATERIAL": "Hardwood",
+        "RETRACT": 10,
+        "THICKNESS": 19.05,
+        "WIDTH": 431.8,
+        "ZERO_X": 215.9,
         "ZERO_Y": 101.6,
         "ZERO_Z": 0,
         "build_num": 464,
         "grid_enabled": true,
-        "grid_spacing": 6.35,
+        "grid_spacing": 6,
         "minimum_build_num": 457,
         "version": 1
     },
@@ -24441,391 +24441,25 @@
                     "elements": [
                         {
                             "tab_index": [
-                                0,
-                                0
                             ],
                             "tab_u": [
-                                0.25856582433370634,
-                                0.7315515021304957
                             ],
-                            "uuid": "{bb64224e-d10d-4271-8e5a-f446a09a71b2}"
-                        }
-                    ],
-                    "enabled": true,
-                    "end_depth": -19.049999999999997,
-                    "name": "Top small cutout",
-                    "ofset_dir": -1,
-                    "speeds": {
-                        "feedrate": 980.4400000000066,
-                        "plungerate": 245.11000000000166,
-                        "rpm": 9350
-                    },
-                    "start_depth": 0,
-                    "stepdown": 2.285762957915476,
-                    "stepover": 2.13741,
-                    "tab_height": 3,
-                    "tab_width": 11.998959999999999,
-                    "tolerance": 0.01,
-                    "tool": {
-                        "angle": 0,
-                        "corner_radius": 0,
-                        "diameter": 4.7498,
-                        "display_mm": false,
-                        "finish_allowance": 1,
-                        "flutes": 2,
-                        "length": 19.049999999999997,
-                        "model": "",
-                        "name": "end mill",
-                        "number": 14,
-                        "overall_length": 0,
-                        "plungerate": 100,
-                        "read_only": false,
-                        "slot_depth": 1,
-                        "slot_feedrate": 100,
-                        "slot_rpm": 10000,
-                        "surfacing_feedrate": 100,
-                        "surfacing_rpm": 10000,
-                        "surfacing_stepover": 20,
-                        "type": 0,
-                        "url": "",
-                        "uuid": "{843886ab-840c-44cc-bb1f-f075f69d9357}",
-                        "vendor": ""
-                    },
-                    "uuid": "{402ac098-65ca-43d1-94e4-b915e26b3495}"
-                },
-                {
-                    "automatic_parameters": true,
-                    "elements": [
-                        {
-                            "tab_index": [
-                                0,
-                                0
-                            ],
-                            "tab_u": [
-                                0.27982219436329636,
-                                0.7699796481932147
-                            ],
-                            "uuid": "{d1e560f3-4d93-4083-9cbc-3a53044f8fe8}"
-                        }
-                    ],
-                    "enabled": true,
-                    "end_depth": -19.049999999999997,
-                    "name": "Bottom small cutout",
-                    "ofset_dir": -1,
-                    "speeds": {
-                        "feedrate": 980.4400000000066,
-                        "plungerate": 245.11000000000166,
-                        "rpm": 9350
-                    },
-                    "start_depth": 0,
-                    "stepdown": 2.285762957915476,
-                    "stepover": 2.13741,
-                    "tab_height": 3,
-                    "tab_width": 12,
-                    "tolerance": 0.01,
-                    "tool": {
-                        "angle": 0,
-                        "corner_radius": 0,
-                        "diameter": 4.7498,
-                        "display_mm": false,
-                        "finish_allowance": 1,
-                        "flutes": 2,
-                        "length": 19.049999999999997,
-                        "model": "",
-                        "name": "end mill",
-                        "number": 14,
-                        "overall_length": 0,
-                        "plungerate": 100,
-                        "read_only": false,
-                        "slot_depth": 1,
-                        "slot_feedrate": 100,
-                        "slot_rpm": 10000,
-                        "surfacing_feedrate": 100,
-                        "surfacing_rpm": 10000,
-                        "surfacing_stepover": 20,
-                        "type": 0,
-                        "url": "",
-                        "uuid": "{843886ab-840c-44cc-bb1f-f075f69d9357}",
-                        "vendor": ""
-                    },
-                    "uuid": "{bb865073-3645-4fe9-ba11-42c033524166}"
-                },
-                {
-                    "automatic_parameters": true,
-                    "elements": [
-                        {
-                            "tab_index": [
-                                0,
-                                0
-                            ],
-                            "tab_u": [
-                                0.8881713103672697,
-                                0.3911761054193838
-                            ],
-                            "uuid": "{1c61bc73-bcdc-481f-a6a3-27604fec2e94}"
-                        }
-                    ],
-                    "enabled": true,
-                    "end_depth": -19.049999999999997,
-                    "name": "Bottom big cutout",
-                    "ofset_dir": -1,
-                    "speeds": {
-                        "feedrate": 980.4400000000066,
-                        "plungerate": 245.11000000000166,
-                        "rpm": 9350
-                    },
-                    "start_depth": 0,
-                    "stepdown": 2.285762957915476,
-                    "stepover": 2.13741,
-                    "tab_height": 3,
-                    "tab_width": 11.998959999999999,
-                    "tolerance": 0.01,
-                    "tool": {
-                        "angle": 0,
-                        "corner_radius": 0,
-                        "diameter": 4.7498,
-                        "display_mm": false,
-                        "finish_allowance": 1,
-                        "flutes": 2,
-                        "length": 19.049999999999997,
-                        "model": "",
-                        "name": "end mill",
-                        "number": 14,
-                        "overall_length": 0,
-                        "plungerate": 100,
-                        "read_only": false,
-                        "slot_depth": 1,
-                        "slot_feedrate": 100,
-                        "slot_rpm": 10000,
-                        "surfacing_feedrate": 100,
-                        "surfacing_rpm": 10000,
-                        "surfacing_stepover": 20,
-                        "type": 0,
-                        "url": "",
-                        "uuid": "{843886ab-840c-44cc-bb1f-f075f69d9357}",
-                        "vendor": ""
-                    },
-                    "uuid": "{267ecde8-498a-4f76-95a8-0aedf9fda425}"
-                },
-                {
-                    "automatic_parameters": true,
-                    "elements": [
-                        {
-                            "tab_index": [
-                                0,
-                                0
-                            ],
-                            "tab_u": [
-                                0.4272916146469912,
-                                0.10868534012111533
-                            ],
-                            "uuid": "{7d3e0f24-d809-4030-b6fc-ac7552dbbc6f}"
-                        }
-                    ],
-                    "enabled": true,
-                    "end_depth": -19.049999999999997,
-                    "name": "Top big cutout",
-                    "ofset_dir": -1,
-                    "speeds": {
-                        "feedrate": 980.4400000000066,
-                        "plungerate": 245.11000000000166,
-                        "rpm": 9350
-                    },
-                    "start_depth": 0,
-                    "stepdown": 2.285762957915476,
-                    "stepover": 2.13741,
-                    "tab_height": 3,
-                    "tab_width": 11.998959999999999,
-                    "tolerance": 0.01,
-                    "tool": {
-                        "angle": 0,
-                        "corner_radius": 0,
-                        "diameter": 4.7498,
-                        "display_mm": false,
-                        "finish_allowance": 1,
-                        "flutes": 2,
-                        "length": 19.049999999999997,
-                        "model": "",
-                        "name": "end mill",
-                        "number": 14,
-                        "overall_length": 0,
-                        "plungerate": 100,
-                        "read_only": false,
-                        "slot_depth": 1,
-                        "slot_feedrate": 100,
-                        "slot_rpm": 10000,
-                        "surfacing_feedrate": 100,
-                        "surfacing_rpm": 10000,
-                        "surfacing_stepover": 20,
-                        "type": 0,
-                        "url": "",
-                        "uuid": "{843886ab-840c-44cc-bb1f-f075f69d9357}",
-                        "vendor": ""
-                    },
-                    "uuid": "{e06208b8-b1e8-487b-8c82-e58966a41ade}"
-                },
-                {
-                    "automatic_parameters": true,
-                    "elements": [
+                            "uuid": "{c11e8e10-5cb9-45b2-8f0c-d38006a2ba73}"
+                        },
                         {
                             "tab_index": [
                             ],
                             "tab_u": [
                             ],
                             "uuid": "{993207f3-b745-4c5a-9a57-876a5c7bca45}"
-                        }
-                    ],
-                    "enabled": true,
-                    "end_depth": -12.7,
-                    "name": "Top hole 1",
-                    "ofset_dir": 2,
-                    "speeds": {
-                        "feedrate": 980.4400000000066,
-                        "plungerate": 245.11000000000166,
-                        "rpm": 9350
-                    },
-                    "start_depth": 0,
-                    "stepdown": 2.285762957915476,
-                    "stepover": 2.13741,
-                    "tab_height": 3,
-                    "tab_width": 12,
-                    "tolerance": 0.01,
-                    "tool": {
-                        "angle": 0,
-                        "corner_radius": 0,
-                        "diameter": 4.7498,
-                        "display_mm": false,
-                        "finish_allowance": 1,
-                        "flutes": 2,
-                        "length": 19.049999999999997,
-                        "model": "",
-                        "name": "end mill",
-                        "number": 14,
-                        "overall_length": 0,
-                        "plungerate": 100,
-                        "read_only": false,
-                        "slot_depth": 1,
-                        "slot_feedrate": 100,
-                        "slot_rpm": 10000,
-                        "surfacing_feedrate": 100,
-                        "surfacing_rpm": 10000,
-                        "surfacing_stepover": 20,
-                        "type": 0,
-                        "url": "",
-                        "uuid": "{843886ab-840c-44cc-bb1f-f075f69d9357}",
-                        "vendor": ""
-                    },
-                    "uuid": "{50c17c5a-9ce6-4ba7-b5b4-cb50ca3a9f27}"
-                },
-                {
-                    "automatic_parameters": true,
-                    "elements": [
+                        },
                         {
                             "tab_index": [
                             ],
                             "tab_u": [
                             ],
                             "uuid": "{243456ee-d17a-43a9-8715-c4d6be9bf247}"
-                        }
-                    ],
-                    "enabled": true,
-                    "end_depth": -12.7,
-                    "name": "Top hole 2",
-                    "ofset_dir": 2,
-                    "speeds": {
-                        "feedrate": 980.4400000000066,
-                        "plungerate": 245.11000000000166,
-                        "rpm": 9350
-                    },
-                    "start_depth": 0,
-                    "stepdown": 2.285762957915476,
-                    "stepover": 2.13741,
-                    "tab_height": 3,
-                    "tab_width": 12,
-                    "tolerance": 0.01,
-                    "tool": {
-                        "angle": 0,
-                        "corner_radius": 0,
-                        "diameter": 4.7498,
-                        "display_mm": false,
-                        "finish_allowance": 1,
-                        "flutes": 2,
-                        "length": 19.049999999999997,
-                        "model": "",
-                        "name": "end mill",
-                        "number": 14,
-                        "overall_length": 0,
-                        "plungerate": 100,
-                        "read_only": false,
-                        "slot_depth": 1,
-                        "slot_feedrate": 100,
-                        "slot_rpm": 10000,
-                        "surfacing_feedrate": 100,
-                        "surfacing_rpm": 10000,
-                        "surfacing_stepover": 20,
-                        "type": 0,
-                        "url": "",
-                        "uuid": "{843886ab-840c-44cc-bb1f-f075f69d9357}",
-                        "vendor": ""
-                    },
-                    "uuid": "{109eaa17-807f-4446-ad12-4d337cfba78f}"
-                },
-                {
-                    "automatic_parameters": true,
-                    "elements": [
-                        {
-                            "tab_index": [
-                            ],
-                            "tab_u": [
-                            ],
-                            "uuid": "{c11e8e10-5cb9-45b2-8f0c-d38006a2ba73}"
-                        }
-                    ],
-                    "enabled": true,
-                    "end_depth": -12.7,
-                    "name": "Bottom hole 1",
-                    "ofset_dir": 2,
-                    "speeds": {
-                        "feedrate": 980.4400000000066,
-                        "plungerate": 245.11000000000166,
-                        "rpm": 9350
-                    },
-                    "start_depth": 0,
-                    "stepdown": 2.285762957915476,
-                    "stepover": 2.13741,
-                    "tab_height": 3,
-                    "tab_width": 12,
-                    "tolerance": 0.01,
-                    "tool": {
-                        "angle": 0,
-                        "corner_radius": 0,
-                        "diameter": 4.7498,
-                        "display_mm": false,
-                        "finish_allowance": 1,
-                        "flutes": 2,
-                        "length": 19.049999999999997,
-                        "model": "",
-                        "name": "end mill",
-                        "number": 14,
-                        "overall_length": 0,
-                        "plungerate": 100,
-                        "read_only": false,
-                        "slot_depth": 1,
-                        "slot_feedrate": 100,
-                        "slot_rpm": 10000,
-                        "surfacing_feedrate": 100,
-                        "surfacing_rpm": 10000,
-                        "surfacing_stepover": 20,
-                        "type": 0,
-                        "url": "",
-                        "uuid": "{843886ab-840c-44cc-bb1f-f075f69d9357}",
-                        "vendor": ""
-                    },
-                    "uuid": "{ba8d116e-e478-4834-bb79-74bf05aa6536}"
-                },
-                {
-                    "automatic_parameters": true,
-                    "elements": [
+                        },
                         {
                             "tab_index": [
                             ],
@@ -24835,46 +24469,46 @@
                         }
                     ],
                     "enabled": true,
-                    "end_depth": -12.7,
-                    "name": "Bottom hole 2",
+                    "end_depth": -12,
+                    "name": "Holes",
                     "ofset_dir": 2,
                     "speeds": {
-                        "feedrate": 980.4400000000066,
-                        "plungerate": 245.11000000000166,
-                        "rpm": 9350
+                        "feedrate": 1524,
+                        "plungerate": 304.79999999999995,
+                        "rpm": 18000
                     },
                     "start_depth": 0,
-                    "stepdown": 2.285762957915476,
-                    "stepover": 2.13741,
+                    "stepdown": 1.27,
+                    "stepover": 2.3812499999999996,
                     "tab_height": 3,
                     "tab_width": 12,
                     "tolerance": 0.01,
                     "tool": {
                         "angle": 0,
                         "corner_radius": 0,
-                        "diameter": 4.7498,
+                        "diameter": 4.762499999999999,
                         "display_mm": false,
-                        "finish_allowance": 1,
+                        "finish_allowance": 0.508,
                         "flutes": 2,
-                        "length": 19.049999999999997,
+                        "length": 12.7,
                         "model": "",
-                        "name": "end mill",
-                        "number": 14,
-                        "overall_length": 0,
-                        "plungerate": 100,
+                        "name": "3/16\" end mill",
+                        "number": 10,
+                        "overall_length": 38.099999999999994,
+                        "plungerate": 304.79999999999995,
                         "read_only": false,
-                        "slot_depth": 1,
-                        "slot_feedrate": 100,
-                        "slot_rpm": 10000,
-                        "surfacing_feedrate": 100,
-                        "surfacing_rpm": 10000,
-                        "surfacing_stepover": 20,
+                        "slot_depth": 1.27,
+                        "slot_feedrate": 1524,
+                        "slot_rpm": 18000,
+                        "surfacing_feedrate": 1524,
+                        "surfacing_rpm": 18000,
+                        "surfacing_stepover": 15,
                         "type": 0,
                         "url": "",
-                        "uuid": "{843886ab-840c-44cc-bb1f-f075f69d9357}",
+                        "uuid": "{00000000-0000-0000-0000-000000000000}",
                         "vendor": ""
                     },
-                    "uuid": "{4b4c4f2a-e796-44db-9189-46030f360c84}"
+                    "uuid": "{fec147b7-c70e-496b-866c-2d6870b95a2d}"
                 },
                 {
                     "automatic_parameters": true,
@@ -24882,60 +24516,89 @@
                         {
                             "tab_index": [
                                 0,
-                                0,
+                                0
+                            ],
+                            "tab_u": [
+                                0.8596829413136137,
+                                0.4454099608515326
+                            ],
+                            "uuid": "{1c61bc73-bcdc-481f-a6a3-27604fec2e94}"
+                        },
+                        {
+                            "tab_index": [
                                 0,
                                 0
                             ],
                             "tab_u": [
-                                0.41073025091390464,
-                                0.12389762685836984,
-                                0.9411490680922152,
-                                0.6554255572961487
+                                0.18479377261351337,
+                                0.7551206505580267
                             ],
-                            "uuid": "{2a8f59fd-f5a3-4391-b7f2-a2b2e47a2614}"
+                            "uuid": "{d1e560f3-4d93-4083-9cbc-3a53044f8fe8}"
+                        },
+                        {
+                            "tab_index": [
+                                0,
+                                0
+                            ],
+                            "tab_u": [
+                                0.47240365743261725,
+                                0.09913826108258272
+                            ],
+                            "uuid": "{7d3e0f24-d809-4030-b6fc-ac7552dbbc6f}"
+                        },
+                        {
+                            "tab_index": [
+                                0,
+                                0
+                            ],
+                            "tab_u": [
+                                0.21070258032756697,
+                                0.7183979003512339
+                            ],
+                            "uuid": "{bb64224e-d10d-4271-8e5a-f446a09a71b2}"
                         }
                     ],
                     "enabled": true,
-                    "end_depth": -19.049999999999997,
-                    "name": "Top outside",
-                    "ofset_dir": 1,
+                    "end_depth": -20,
+                    "name": "Inside cutouts",
+                    "ofset_dir": -1,
                     "speeds": {
-                        "feedrate": 980.4399999999999,
-                        "plungerate": 245.10999999999999,
-                        "rpm": 9350
+                        "feedrate": 1524,
+                        "plungerate": 304.8,
+                        "rpm": 18000
                     },
                     "start_depth": 0,
-                    "stepdown": 2.2859999999999996,
-                    "stepover": 2.1336,
+                    "stepdown": 1.27,
+                    "stepover": 2.381,
                     "tab_height": 3,
                     "tab_width": 12,
                     "tolerance": 0.01,
                     "tool": {
                         "angle": 0,
                         "corner_radius": 0,
-                        "diameter": 4.7498,
+                        "diameter": 4.762499999999999,
                         "display_mm": false,
-                        "finish_allowance": 1,
+                        "finish_allowance": 0.508,
                         "flutes": 2,
-                        "length": 19.049999999999997,
+                        "length": 12.7,
                         "model": "",
-                        "name": "end mill",
-                        "number": 14,
-                        "overall_length": 0,
-                        "plungerate": 100,
+                        "name": "3/16\" end mill",
+                        "number": 10,
+                        "overall_length": 38.099999999999994,
+                        "plungerate": 304.79999999999995,
                         "read_only": false,
-                        "slot_depth": 1,
-                        "slot_feedrate": 100,
-                        "slot_rpm": 10000,
-                        "surfacing_feedrate": 100,
-                        "surfacing_rpm": 10000,
-                        "surfacing_stepover": 20,
+                        "slot_depth": 1.27,
+                        "slot_feedrate": 1524,
+                        "slot_rpm": 18000,
+                        "surfacing_feedrate": 1524,
+                        "surfacing_rpm": 18000,
+                        "surfacing_stepover": 15,
                         "type": 0,
                         "url": "",
-                        "uuid": "{843886ab-840c-44cc-bb1f-f075f69d9357}",
+                        "uuid": "{00000000-0000-0000-0000-000000000000}",
                         "vendor": ""
                     },
-                    "uuid": "{40efb435-5837-4513-b878-6073d492c8e6}"
+                    "uuid": "{ba382331-81b7-4e54-9dd6-61516d676e13}"
                 },
                 {
                     "automatic_parameters": true,
@@ -24943,65 +24606,72 @@
                         {
                             "tab_index": [
                                 0,
-                                0,
+                                0
+                            ],
+                            "tab_u": [
+                                0.7941115194444179,
+                                0.2671526781324325
+                            ],
+                            "uuid": "{2a8f59fd-f5a3-4391-b7f2-a2b2e47a2614}"
+                        },
+                        {
+                            "tab_index": [
                                 0,
                                 0
                             ],
                             "tab_u": [
-                                0.4082498138164325,
-                                0.13166121204859538,
-                                0.9440053648224974,
-                                0.6387675388316139
+                                0.7660798564666931,
+                                0.29371033744952796
                             ],
                             "uuid": "{be5ead7f-3a33-41de-b846-890ca4bfdde5}"
                         }
                     ],
                     "enabled": true,
-                    "end_depth": -19.049999999999997,
-                    "name": "Bottomm outside",
+                    "end_depth": -20,
+                    "name": "Outside cutouts",
                     "ofset_dir": 1,
                     "speeds": {
-                        "feedrate": 980.4400000000066,
-                        "plungerate": 245.11000000000166,
-                        "rpm": 9350
+                        "feedrate": 1524,
+                        "plungerate": 304.79999999999995,
+                        "rpm": 18000
                     },
                     "start_depth": 0,
-                    "stepdown": 2.285762957915476,
-                    "stepover": 2.13741,
+                    "stepdown": 1.27,
+                    "stepover": 2.3812499999999996,
                     "tab_height": 3,
                     "tab_width": 12,
                     "tolerance": 0.01,
                     "tool": {
                         "angle": 0,
                         "corner_radius": 0,
-                        "diameter": 4.7498,
+                        "diameter": 4.762499999999999,
                         "display_mm": false,
-                        "finish_allowance": 1,
+                        "finish_allowance": 0.508,
                         "flutes": 2,
-                        "length": 19.049999999999997,
+                        "length": 12.7,
                         "model": "",
-                        "name": "end mill",
-                        "number": 14,
-                        "overall_length": 0,
-                        "plungerate": 100,
+                        "name": "3/16\" end mill",
+                        "number": 10,
+                        "overall_length": 38.099999999999994,
+                        "plungerate": 304.79999999999995,
                         "read_only": false,
-                        "slot_depth": 1,
-                        "slot_feedrate": 100,
-                        "slot_rpm": 10000,
-                        "surfacing_feedrate": 100,
-                        "surfacing_rpm": 10000,
-                        "surfacing_stepover": 20,
+                        "slot_depth": 1.27,
+                        "slot_feedrate": 1524,
+                        "slot_rpm": 18000,
+                        "surfacing_feedrate": 1524,
+                        "surfacing_rpm": 18000,
+                        "surfacing_stepover": 15,
                         "type": 0,
                         "url": "",
-                        "uuid": "{843886ab-840c-44cc-bb1f-f075f69d9357}",
+                        "uuid": "{00000000-0000-0000-0000-000000000000}",
                         "vendor": ""
                     },
-                    "uuid": "{65cef762-be2d-4d0e-a3c0-284b7e03ce15}"
+                    "uuid": "{b40d5cc3-3135-469a-b6b1-93fb2b7b132d}"
                 }
             ],
             "enabled": true,
             "name": "Group 1",
-            "uuid": "{a97b5c3e-48db-4e77-a72a-2e99083f4e7f}"
+            "uuid": "{371fba4d-2ffc-4021-a8f1-77410ab2414d}"
         }
     ]
 }
@@ -25013,4 +24683,4 @@ MODELV1
 
 
 
-xEá1  \‡Öâ¯c@Jï¥It¯&ΩÂÓ»ôv∑À‚i∫¯xù”Hü
+xEá1  \‡Öâ¯c@Jï¥It¯&ΩÂÓ»ôv∑À‚i∫¯xù”t†
