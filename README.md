@@ -1,6 +1,6 @@
 # CNC Projects
 
-This repository contains CNC projects designed for the [Shapeoko 3 XL](https://shop.carbide3d.com/products/shapeoko3?variant=14064088580157). The `c2d` files are meant to be opened using [Carbide 3D](https://carbide3d.com/carbidecreate/).
+This repository contains CNC projects designed for the [Shapeoko 3 XL](https://shop.carbide3d.com/products/shapeoko3?variant=14064088580157). The `c2d` files are meant to be opened using [Carbide Create](https://carbide3d.com/carbidecreate/).
 
 | File                                           | Description                                                                                                                                                                       |
 | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
