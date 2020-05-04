@@ -13,3 +13,7 @@ This repository contains CNC projects designed for the [Shapeoko 3 XL](https://s
 | `src/lego_drop_tray.c2d`                       | A drop tray for keys/change/etc., shaped like a Lego character.                                                                                                                   |
 | `src/push_stick.c2d`                           | Table saw push stick. A band saw must be used to square the inside corner at the heel.                                                                                            |
 | `src/ridgid_spindle_sander_wrench`             | A wrench for loosening the bolt at the top of the spindle of the Ridgid oscillating belt/spindle sander                                                                           |
+
+## Feeds and Speeds
+
+![Feeds and speeds chart](assets/S3_feeds_250.jpg)
