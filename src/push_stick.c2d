@@ -95,8 +95,8 @@
                 ]
             ],
             "position": [
-                68.98025612092249,
-                58.980256120922505
+                97.78893805478279,
+                40.36001048074452
             ],
             "radius": 12.7,
             "rotation": 0,
@@ -205,8 +205,8 @@
                 ]
             ],
             "position": [
-                284.435024968119,
-                267.71743711631035
+                305,
+                237.3
             ],
             "radius": 12.7,
             "rotation": 0,
@@ -3565,8 +3565,8 @@
                 ]
             ],
             "position": [
-                -113.29635831525536,
-                104.5421966399428
+                -92.73138328337436,
+                74.12475952363246
             ],
             "radius": 0,
             "rotation": 0,
@@ -7175,8 +7175,8 @@
                 ]
             ],
             "position": [
-                -114.14360046386719,
-                25.13861846923828
+                -85.33491853000689,
+                6.518372829060297
             ],
             "radius": 0,
             "rotation": 0,
@@ -7450,15 +7450,15 @@
         "BACKGROUND_SCALE": 1,
         "BACKGROUND_VISIBLE": false,
         "DISPLAYMM": false,
-        "HEIGHT": 355.59999999999997,
-        "MACHINE": "Shapeoko XXL",
+        "HEIGHT": 279.4,
+        "MACHINE": "Shapeoko XL",
         "MACHINE_TYPE": "Shapeoko",
         "MATERIAL": "Acrylic",
-        "RETRACT": 2.9997399999999996,
-        "THICKNESS": 19.049999999999997,
-        "WIDTH": 355.59999999999997,
-        "ZERO_X": 177.79999999999998,
-        "ZERO_Y": 177.79999999999998,
+        "RETRACT": 20.32,
+        "THICKNESS": 15.748,
+        "WIDTH": 406.4,
+        "ZERO_X": 203.2,
+        "ZERO_Y": 139.7,
         "ZERO_Z": 0,
         "build_num": 464,
         "grid_enabled": true,
@@ -7475,9 +7475,23 @@
                 {
                     "automatic_parameters": true,
                     "elements": [
+                        {
+                            "tab_index": [
+                            ],
+                            "tab_u": [
+                            ],
+                            "uuid": "{80883364-0904-4fca-b542-c6d14c8201dd}"
+                        },
+                        {
+                            "tab_index": [
+                            ],
+                            "tab_u": [
+                            ],
+                            "uuid": "{195b6389-e4e3-40b4-9962-a538bc3bed45}"
+                        }
                     ],
                     "enabled": true,
-                    "end_depth": -19.304,
+                    "end_depth": -15.875,
                     "name": "Holes",
                     "ofset_dir": 2,
                     "speeds": {
@@ -7513,31 +7527,39 @@
                         "surfacing_stepover": 15,
                         "type": 0,
                         "url": "",
-                        "uuid": "{fd74b44d-d756-41cc-b508-60eb23986717}",
+                        "uuid": "{00000000-0000-0000-0000-000000000000}",
                         "vendor": ""
                     },
-                    "uuid": "{eca06d6c-aba5-46a2-b2ce-ea411ef7319b}"
+                    "uuid": "{b169b773-397c-46fe-b9ef-e6f1fc4a99cd}"
                 },
                 {
                     "automatic_parameters": true,
                     "elements": [
                         {
                             "tab_index": [
+                                0,
+                                0
                             ],
                             "tab_u": [
+                                0.8089631383252285,
+                                0.43125963285913765
                             ],
                             "uuid": "{f41e5d5f-46f4-4ef6-beb4-5bfdf125e0ab}"
                         },
                         {
                             "tab_index": [
+                                0,
+                                0
                             ],
                             "tab_u": [
+                                0.43476237301307885,
+                                0.7593080309669846
                             ],
                             "uuid": "{ed862abc-63b4-4af7-8203-3da77edff34d}"
                         }
                     ],
                     "enabled": true,
-                    "end_depth": -19.304,
+                    "end_depth": -15.875,
                     "name": "Outside",
                     "ofset_dir": 1,
                     "speeds": {
@@ -7593,4 +7615,4 @@ MODELV1
 
 
 
-xE«±	 0D—ÑÏí5Rßt#qápKG9¡«Ò˜˙¬WÌ°¢¯¡J œª
+xEá1  üÄÅ=¸†ùõ¥:|ìﬁrwƒßËπÛ,]º¨Œ˘7'

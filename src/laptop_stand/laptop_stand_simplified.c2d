@@ -24413,20 +24413,20 @@
         "BACKGROUND_ROTATION": 0,
         "BACKGROUND_SCALE": 1,
         "BACKGROUND_VISIBLE": false,
-        "DISPLAYMM": true,
+        "DISPLAYMM": false,
         "HEIGHT": 203.2,
         "MACHINE": "Shapeoko XL",
         "MACHINE_TYPE": "Shapeoko",
         "MATERIAL": "Hardwood",
-        "RETRACT": 10,
-        "THICKNESS": 19.05,
-        "WIDTH": 431.8,
-        "ZERO_X": 215.9,
+        "RETRACT": 10.0076,
+        "THICKNESS": 19.049999999999997,
+        "WIDTH": 431.79999999999995,
+        "ZERO_X": 215.89999999999998,
         "ZERO_Y": 101.6,
         "ZERO_Z": 0,
         "build_num": 464,
         "grid_enabled": true,
-        "grid_spacing": 6,
+        "grid_spacing": 5,
         "minimum_build_num": 457,
         "version": 1
     },
@@ -24469,7 +24469,7 @@
                         }
                     ],
                     "enabled": true,
-                    "end_depth": -12,
+                    "end_depth": -12.7,
                     "name": "Holes",
                     "ofset_dir": 2,
                     "speeds": {
@@ -24479,20 +24479,20 @@
                     },
                     "start_depth": 0,
                     "stepdown": 1.27,
-                    "stepover": 2.3812499999999996,
+                    "stepover": 3.175,
                     "tab_height": 3,
                     "tab_width": 12,
                     "tolerance": 0.01,
                     "tool": {
                         "angle": 0,
                         "corner_radius": 0,
-                        "diameter": 4.762499999999999,
+                        "diameter": 6.35,
                         "display_mm": false,
                         "finish_allowance": 0.508,
                         "flutes": 2,
                         "length": 12.7,
                         "model": "",
-                        "name": "3/16\" end mill",
+                        "name": "1/4\" end mill",
                         "number": 10,
                         "overall_length": 38.099999999999994,
                         "plungerate": 304.79999999999995,
@@ -24559,7 +24559,7 @@
                         }
                     ],
                     "enabled": true,
-                    "end_depth": -20,
+                    "end_depth": -19.304,
                     "name": "Inside cutouts",
                     "ofset_dir": -1,
                     "speeds": {
@@ -24569,20 +24569,20 @@
                     },
                     "start_depth": 0,
                     "stepdown": 1.27,
-                    "stepover": 2.381,
+                    "stepover": 3.175,
                     "tab_height": 3,
                     "tab_width": 12,
                     "tolerance": 0.01,
                     "tool": {
                         "angle": 0,
                         "corner_radius": 0,
-                        "diameter": 4.762499999999999,
+                        "diameter": 6.35,
                         "display_mm": false,
                         "finish_allowance": 0.508,
                         "flutes": 2,
                         "length": 12.7,
                         "model": "",
-                        "name": "3/16\" end mill",
+                        "name": "1/4\" end mill",
                         "number": 10,
                         "overall_length": 38.099999999999994,
                         "plungerate": 304.79999999999995,
@@ -24627,7 +24627,7 @@
                         }
                     ],
                     "enabled": true,
-                    "end_depth": -20,
+                    "end_depth": -19.304,
                     "name": "Outside cutouts",
                     "ofset_dir": 1,
                     "speeds": {
@@ -24637,20 +24637,20 @@
                     },
                     "start_depth": 0,
                     "stepdown": 1.27,
-                    "stepover": 2.3812499999999996,
+                    "stepover": 3.175,
                     "tab_height": 3,
                     "tab_width": 12,
                     "tolerance": 0.01,
                     "tool": {
                         "angle": 0,
                         "corner_radius": 0,
-                        "diameter": 4.762499999999999,
+                        "diameter": 6.35,
                         "display_mm": false,
                         "finish_allowance": 0.508,
                         "flutes": 2,
                         "length": 12.7,
                         "model": "",
-                        "name": "3/16\" end mill",
+                        "name": "1/4\" end mill",
                         "number": 10,
                         "overall_length": 38.099999999999994,
                         "plungerate": 304.79999999999995,
@@ -24683,4 +24683,4 @@ MODELV1
 
 
 
-xEá1  \‡Öâ¯c@Jï¥It¯&ΩÂÓ»ôv∑À‚i∫¯xù”t†
+xEá1  \‡Öâ¯c@Jï¥It¯&ΩÂÓ»ôv∑À‚i∫¯xù”Hü
