@@ -7455,7 +7455,7 @@
         "MACHINE_TYPE": "Shapeoko",
         "MATERIAL": "Acrylic",
         "RETRACT": 20.32,
-        "THICKNESS": 15.748,
+        "THICKNESS": 12.039599999999998,
         "WIDTH": 406.4,
         "ZERO_X": 203.2,
         "ZERO_Y": 139.7,
@@ -7491,7 +7491,7 @@
                         }
                     ],
                     "enabled": true,
-                    "end_depth": -15.875,
+                    "end_depth": -12.115799999999998,
                     "name": "Holes",
                     "ofset_dir": 2,
                     "speeds": {
@@ -7538,28 +7538,32 @@
                         {
                             "tab_index": [
                                 0,
+                                0,
                                 0
                             ],
                             "tab_u": [
                                 0.8089631383252285,
-                                0.43125963285913765
+                                0.43125963285913765,
+                                0.07608891827246386
                             ],
                             "uuid": "{f41e5d5f-46f4-4ef6-beb4-5bfdf125e0ab}"
                         },
                         {
                             "tab_index": [
                                 0,
+                                0,
                                 0
                             ],
                             "tab_u": [
                                 0.43476237301307885,
-                                0.7593080309669846
+                                0.7593080309669846,
+                                0.21450553310452497
                             ],
                             "uuid": "{ed862abc-63b4-4af7-8203-3da77edff34d}"
                         }
                     ],
                     "enabled": true,
-                    "end_depth": -15.875,
+                    "end_depth": -12.115799999999998,
                     "name": "Outside",
                     "ofset_dir": 1,
                     "speeds": {
