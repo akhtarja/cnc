@@ -18,7 +18,7 @@ This repository contains CNC projects designed for the [Shapeoko 3 XL](https://s
 | `src/ridgid_spindle_sander_wrench.c2d`             | A wrench for loosening the bolt at the top of the spindle of the Ridgid oscillating belt/spindle sander                                                                            |
 | `src/serving_boards/serving_board_[1/2/3/4/5].c2d` | A number of different serving board designs.                                                                                                                                       |
 | `src/spoon/[back/front].c2d`                       | A 3d-carved spoon. Run `front.c2d` first, and use the resulting dowel holes to align it when flipped. This is easier if the dowel holes are allowed to extend into the wasteboard. |
-| `src/tool_trays/tool_tray_[1/2/3].c2d`             | A few different rool tray designs for organizing CNC tools and accessories.                                                                                                        |
+| `src/tool_tray.c2d`                                | Tool tray for organizing CNC tools and accessories.                                                                                                                                |
 
 ## Feeds and Speeds
 
