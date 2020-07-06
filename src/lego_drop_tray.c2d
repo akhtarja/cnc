@@ -31349,11 +31349,11 @@
         "BACKGROUND_VISIBLE": false,
         "DISPLAYMM": false,
         "HEIGHT": 215.89999999999998,
-        "MACHINE": "Shapeoko XXL",
+        "MACHINE": "Shapeoko XL",
         "MACHINE_TYPE": "Shapeoko",
-        "MATERIAL": "Acrylic",
-        "RETRACT": 4.0005,
-        "THICKNESS": 19.049999999999997,
+        "MATERIAL": "Hardwood",
+        "RETRACT": 19.049999999999997,
+        "THICKNESS": 24.9428,
         "WIDTH": 355.59999999999997,
         "ZERO_X": 177.79999999999998,
         "ZERO_Y": 107.94999999999999,
@@ -31373,16 +31373,9 @@
                 {
                     "automatic_parameters": false,
                     "elements": [
-                        {
-                            "tab_index": [
-                            ],
-                            "tab_u": [
-                            ],
-                            "uuid": "{fa82ca6b-2987-4a1b-87b8-f00c529d4abd}"
-                        }
                     ],
                     "enabled": true,
-                    "end_depth": -15.239999999999998,
+                    "end_depth": -19.049999999999997,
                     "name": "Hollowing Cut 0.25 flat",
                     "ofset_dir": 2,
                     "speeds": {
@@ -31442,7 +31435,7 @@
                         }
                     ],
                     "enabled": true,
-                    "end_depth": -19.049999999999997,
+                    "end_depth": -25.145999999999997,
                     "name": "Hand holes 0.25 flat - optional",
                     "ofset_dir": 2,
                     "speeds": {
@@ -31488,14 +31481,26 @@
                     "elements": [
                         {
                             "tab_index": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
                             ],
                             "tab_u": [
+                                0.3703783245355221,
+                                0.26132235216414434,
+                                0.7061590491980082,
+                                0.9324584112052088,
+                                0.17191956472220962,
+                                0.46391879583970347
                             ],
                             "uuid": "{cd864d27-9b19-4598-9abe-c7fd14f6d412}"
                         }
                     ],
                     "enabled": true,
-                    "end_depth": -19.049999999999997,
+                    "end_depth": -25.145999999999997,
                     "name": "Cutout 0.25 flat",
                     "ofset_dir": 1,
                     "speeds": {
@@ -31507,7 +31512,7 @@
                     "stepdown": 5.08,
                     "stepover": 2.8702,
                     "tab_height": 3,
-                    "tab_width": 12,
+                    "tab_width": 11.998959999999999,
                     "tolerance": 0.01,
                     "tool": {
                         "angle": 0,

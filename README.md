@@ -4,8 +4,10 @@ This repository contains CNC projects designed for the [Shapeoko 3 XL](https://s
 
 | File                                               | Description                                                                                                                                                                        |
 | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `src/ball_catch_mount.c2d`                         | Mounting fixture for cabinet ball catches                                                                                                                                          |
 | `src/band_saw_insert.c2d`                          | Throat plate for a Grizzly 14" band saw.                                                                                                                                           |
 | `src/chopstick_rests.c2d`                          | A set of chopstick rests, meant as a learning exercise for 3d carving in Carbide Create Pro                                                                                        |
+| `src/clamps.c2d`                                   | CNC workholding clamps                                                                                                                                                             |
 | `src/coasters.c2d`                                 | Coasters of approximately 6" x 6"                                                                                                                                                  |
 | `src/dutchman.c2d`                                 | A basic dutchman inlay pattern. Cut an inside contour to create a router template, and an outside contour for the inlay itself                                                     |
 | `src/laptop_stand/laptop_stand_orig.c2d`           | The original laptop stand design based on [this](http://www.winstonmoy.com/2016/06/diy-laptop-stand-for-5-in-materials/) design from Winston Moy.                                  |
@@ -19,6 +21,7 @@ This repository contains CNC projects designed for the [Shapeoko 3 XL](https://s
 | `src/serving_boards/serving_board_[1/2/3/4/5].c2d` | A number of different serving board designs.                                                                                                                                       |
 | `src/spoon/[back/front].c2d`                       | A 3d-carved spoon. Run `front.c2d` first, and use the resulting dowel holes to align it when flipped. This is easier if the dowel holes are allowed to extend into the wasteboard. |
 | `src/tool_tray.c2d`                                | Tool tray for organizing CNC tools and accessories.                                                                                                                                |
+| `src/xl_wasteboard.c2d`                            | Hole pattern for CNC wasteboard                                                                                                                                                    |
 
 ## Feeds and Speeds
 
