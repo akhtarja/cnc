@@ -9,6 +9,8 @@ This repository contains CNC projects designed for the [Shapeoko 3 XL](https://s
 | `src/chopstick_rests.c2d` | A set of chopstick rests, meant as a learning exercise for 3d carving in Carbide Create Pro. |
 | `src/clamps.c2d` | CNC workholding clamps |
 | `src/coasters.c2d` | Coasters of approximately 6" x 6" |
+| `src/coffee_table/rails_long.c2d` | Long rails for coffee table |
+| `src/coffee_table/rails_short.c2d` | Short rails for coffee table |
 | `src/dutchman.c2d` | A basic dutchman inlay pattern. Cut an inside contour to create a router template, and an outside contour for the inlay itself |
 | `src/laptop_stand/laptop_stand_orig.c2d` | The original laptop stand design based on [this](http://www.winstonmoy.com/2016/06/diy-laptop-stand-for-5-in-materials/) design from Winston Moy. |
 | `src/laptop_stand/laptop_stand_1l.c2d` | Laptop stand variant with a single cable guide on the left side. |
