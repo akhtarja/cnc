@@ -17,6 +17,7 @@ This repository contains CNC projects designed for the [Shapeoko 3 XL](https://s
 | `src/laptop_stand/laptop_stand_2l.c2d` | Laptop stand variant with two cable guides on the left side. |
 | `src/laptop_stand/laptop_stand_2lr.c2d` | Laptop stand variant with two cable guides, one on each side. |
 | `src/laptop_stand/laptop_stand_2r.c2d` | Laptop stand variant with two cable guides on the right side. |
+| `src/laptop_stand/laptop_stand_plain.c2d` | Laptop stand variant with no cable guides. |
 | `src/lego_drop_tray.c2d` | A drop tray for keys/change/etc., shaped like a Lego character. |
 | `src/office_cabinet/ball_catch_mount.c2d` | Mounting fixture for cabinet ball catches |
 | `src/office_cabinet/door_stop.c2d` | Door stop fixture fixture for cabinets |
